@@ -13,7 +13,7 @@ namespace Absolute_diff
         {
             int n, diff;
             const int x = 51;
-            Console.WriteLine("Enter the number");
+            Console.WriteLine("Enter the number tyyuuu");
             n = int.Parse(Console.ReadLine());
             diff = diffC(n, x);
             Console.WriteLine(diff);
